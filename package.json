@@ -1,0 +1,22 @@
+{
+  "name": "taller-playwright",
+  "version": "1.0.0",
+  "description": "Repositorio para la automatización de pruebas",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/analistaqc08-QaTeam/Taller-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/analistaqc08-QaTeam/Taller-Playwright/issues"
+  },
+  "homepage": "https://github.com/analistaqc08-QaTeam/Taller-Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.5.1"
+  }
+}
